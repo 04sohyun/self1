@@ -3,7 +3,7 @@ package day4;
 public class Overflow {
 
 	public static void main(String[] args) {
-		//Overflow 예시(byte)
+		//Overflow 예시
 		
 		for(int i = -128;i<129;i++) {
 			System.out.println(i+":"+(byte)i);
