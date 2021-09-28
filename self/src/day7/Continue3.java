@@ -8,7 +8,7 @@ public class Continue3 {
 			for(int j=0;j<=9;j++) {
 				System.out.print("j="+j);
 				if(j>2) continue Label;
-				System.out.print("Ãâ·ÂµÊ\t");
+				System.out.print("ì¶œë ¥ë¨\t");
 			}
 			System.out.println();
 		}
