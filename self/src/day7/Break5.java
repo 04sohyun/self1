@@ -8,7 +8,7 @@ public class Break5 {
 				if(lower=='g') break A;
 			}
 		}
-		System.out.println("½ÇÇàÁ¾·á");
+		System.out.println("ì‹¤í–‰ì¢…ë£Œ");
 	}
 
 }
