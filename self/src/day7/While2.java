@@ -7,7 +7,7 @@ public class While2 {
 			sum+=i;
 			i++;
 		}
-		System.out.println("ÇÕ°è:"+sum);//ÇÕ°è:55
+		System.out.println("í•©ê³„"+sum);//ï¿½Õ°ï¿½:55
 	}
 
 }
