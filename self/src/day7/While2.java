@@ -7,7 +7,7 @@ public class While2 {
 			sum+=i;
 			i++;
 		}
-		System.out.println("합계"+sum);//�հ�:55
+		System.out.println("합계"+sum);//합계:55
 	}
 
 }
