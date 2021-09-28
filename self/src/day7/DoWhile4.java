@@ -8,7 +8,7 @@ public class DoWhile4 {
 		int num; int i =1;
 		
 		do {
-			System.out.println("2~9»çÀÌÀÇ ¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À.");
+			System.out.println("2~9ì‚¬ì´ì˜ ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹œì˜¤.");
 			num = scanner.nextInt();
 			if(num>=2 && num<=9) {
 				do {
