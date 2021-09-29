@@ -7,7 +7,7 @@ public class Continue2 {
 			for(int j=0;j<=9;j++) {
 				System.out.print("j="+j);
 				if(j>2) continue;
-				System.out.print(출력됨\t");
+				System.out.print("출력됨\t");
 			}
 			System.out.println();
 		}
