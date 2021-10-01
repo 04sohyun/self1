@@ -2,7 +2,7 @@ package day10;
 
 public class StringArray2_1 {
 	public static void main(String[] args) {
-		String[][] snake = {{"±¸··ÀÌ","ÆÈ··ÀÌ","Ä¥··ÀÌ"},{"±¸··»ï","±¸··»ç","±¸··¿À"}};
+		String[][] snake = {{"êµ¬ë ì´","íŒ”ë ì´","ì¹ ë ì´"},{"êµ¬ë ì‚¼","êµ¬ë ì‚¬","êµ¬ë ì˜¤"}};
 		
 		for(int i=0;i<snake.length;i++) {
 			for(int j=0;j<snake[i].length;j++) {
