@@ -5,10 +5,10 @@ public class Car7 {
  boolean isLeftGas() {
 	 int gas = 5;
 	 if(gas==0) {
-		 System.out.println("gas°¡ ¾ø½À´Ï´Ù.");
+		 System.out.println("gasê°€ ì—†ìŠµë‹ˆë‹¤.");
 		 return false;
 	 }
-	 System.out.println("gas°¡ ÀÖ½À´Ï´Ù.");
+	 System.out.println("gasê°€ ìžˆìŠµë‹ˆë‹¤.");
 	 return true;
  }
 	
