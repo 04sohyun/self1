@@ -1,18 +1,18 @@
 package day11;
 
 public class Person {
-//ÇÊµå
+//í•„ë“œ
 String name;
 int year;
 int age;
 	
-//»ı¼ºÀÚ
+//ìƒì„±ì
 Person(String name, int year){
 	this.name = name;
 	this.year = year;
 }
 	
-//¸Ş¼Òµå
+//ë©”ì†Œë“œ
 void PersonInfo() {
 	age = 2021-year;
 	System.out.println(name+","+age);
