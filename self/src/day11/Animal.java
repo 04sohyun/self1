@@ -1,10 +1,10 @@
 package day11;
 
 public class Animal {
-	String name = "µ¿¹°";
+	String name = "ë™ë¬¼";
 	
 	void run() {
-		System.out.println("µ¿¹°ÀÌ ´Ş¸³´Ï´Ù.");
+		System.out.println("ë™ë¬¼ì´ ë‹¬ë¦½ë‹ˆë‹¤.");
 	}
 
 }

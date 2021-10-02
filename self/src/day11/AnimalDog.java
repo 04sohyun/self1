@@ -1,10 +1,10 @@
 package day11;
 
 public class AnimalDog extends Animal {
-	String name = "°­¾ÆÁö";
+	String name = "ê°•ì•„ì§€";
 
 	@Override
 	void run() {
-		System.out.println(name+"°¡ ¼ö¿µÇÕ´Ï´Ù.");
+		System.out.println(name+"ê°€ ìˆ˜ì˜í•©ë‹ˆë‹¤.");
 	}
 }

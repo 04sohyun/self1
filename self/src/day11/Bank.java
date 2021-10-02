@@ -14,6 +14,6 @@ public void withdraw(int amount) {
 }
 
 public void currentBalance() {
-	System.out.println("ÀÜ°í:"+balance);
+	System.out.println("ìž”ê³ "+balance);
 }
 }

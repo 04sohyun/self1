@@ -5,6 +5,6 @@ public class AnimalBird extends Animal {
 
 	@Override
 	void run() {
-		System.out.println(name+"°¡ ³¯¾Æ°©´Ï´Ù.");
+		System.out.println(name+"ê°€ ë‚ ì•„ê°‘ë‹ˆë‹¤.");
 	}
 }
