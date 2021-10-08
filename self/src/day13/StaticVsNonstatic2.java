@@ -9,7 +9,7 @@ public class StaticVsNonstatic2 {
 		Car2 c3 = new Car2();
 		c3.printCarNo();
 		
-		System.out.println(Car2.seq);//Å¬·¡½º¸í.¸Ş¼Òµå()	
+		System.out.println(Car2.seq);//í´ë˜ìŠ¤ëª….ë©”ì†Œë“œ()
 	}
 }
 class Car2{
