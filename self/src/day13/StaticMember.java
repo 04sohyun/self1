@@ -5,11 +5,11 @@ import java.util.Scanner;
 public class StaticMember {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("È¯À²(1´Ş¶ó)>> ");
+		System.out.println("í™˜ìœ¨(1ë‹¬ë¼>> ");
 		double rate = scanner.nextDouble();
 		Currentconverter.setRate(rate);
-		System.out.println("¹é¸¸¿øÀº $"+Currentconverter.toDollar(1000000));
-		System.out.println("$100´Â "+Currentconverter.toWon(100));
+		System.out.println("ë°±ë§Œì›ì€ $"+Currentconverter.toDollar(1000000)+"ì…ë‹ˆë‹¤.");
+		System.out.println("$100ì€ "+Currentconverter.toWon(100)+"ì›ì…ë‹ˆë‹¤.");
 		
 	}
 }
