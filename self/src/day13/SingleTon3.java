@@ -13,7 +13,7 @@ class Bank{
 	
   //1.자신타입으로 private필드 선언
 	private static Bank b = new Bank("하난은행");
-  //2.private으로 생성자 처리
+  //2.private으로 생성자 처리k
 	private Bank(String n) {
 		name=n;
 	}
