@@ -8,7 +8,7 @@ public class Extends1 {
 class A{}
 class B{}
 
-//ºÎ¸ğÅ¬·¡½º ³ª¿­ºÒ°¡
+//ë¶€ëª¨í´ë˜ìŠ¤ ë‚˜ì—´ë¶ˆê°€
 //class C extends A,B{}
 
 class C extends Extends1{
