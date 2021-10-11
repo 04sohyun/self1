@@ -1,6 +1,6 @@
 package day15;
 
-public class Override4 {
+public class Final3 {
 	public static void main(String[] args) {
 		A4 a4 = new A4();
 		a4.set();
@@ -17,7 +17,7 @@ public class Override4 {
 	 this.weight=weight;
  }
 }
-class A4 extends Override4{
+class A4 extends Final3{
 	public void set() {
 		age = 30;
 		name = "ȫ�浿";
