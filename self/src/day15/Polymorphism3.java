@@ -16,5 +16,8 @@ class Rect extends Polymorphism3{
 	public void draw() {System.out.println("Rect");}
 }
 class Circle extends Polymorphism3{
-	public void draw() {System.out.println("Circle");}
+	public void draw() {
+		System.out.println("Circle");
+		super.draw();
+	}
 }
