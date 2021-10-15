@@ -1,9 +1,9 @@
 package day16;
 
 public interface Interface2 {
-	//»ó¼ö
+	//ìƒìˆ˜
 	int a = 10;
-	//¸Ş¼Òµå
+	//ë©”ì†Œë“œ
 	void a();
 }
 class G2 implements Interface2{
