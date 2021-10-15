@@ -5,6 +5,6 @@ public class Interface12_1 {}
 class Animal{
 	String name;
 	void eat() {
-		System.out.println("¸ÔÀÌ¸¦ ¸Ô½À´Ï´Ù.");
+		System.out.println("ë¨¹ì´ë¥¼ ë¨¹ìŠµë‹ˆë‹¤.");
 	}
 }
