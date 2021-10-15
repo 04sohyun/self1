@@ -2,7 +2,7 @@ package day16;
 
 public class Interface7Main {
 	public static void main(String[] args) {
-		//´ÙÇü¼º
+		//ë‹¤í˜•ì„±
 		Interface7 a1 = new B1();
 		Interface7 a2 = new C1();
 		Interface7 a3 = new D1();
@@ -16,7 +16,7 @@ public class Interface7Main {
 		arr[4] = new E1();
 		
 		for(int i=1;i<arr.length;i++) {
-			System.out.println(arr[i] instanceof Interface7?"Interface7Å¸ÀÔ":"Interface7Å¸ÀÔ¾Æ´Ô");
+			System.out.println(arr[i] instanceof Interface7?"Interface7íƒ€ìž…:"Interface7íƒ€ìž…ì•„ë‹˜");
 		}
 	}
 }
