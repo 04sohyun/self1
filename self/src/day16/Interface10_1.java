@@ -5,12 +5,12 @@ public class Interface10_1 {}
 class Bus implements Vehicle{
 	@Override
 	public void run() {
-		System.out.println("Bus°¡ ´Þ¸³´Ï´Ù.");
+		System.out.println("Busê°€ ë‹¬ë¦½ë‹ˆë‹¤.");
 	}
 }
 class Taxi implements Vehicle{
 	@Override
 	public void run() {
-		System.out.println("Taxi°¡ ´Þ¸³´Ï´Ù.");
+		System.out.println("Taxiê°€ ë‹¬ë¦½ë‹ˆë‹¤.");
 	}
 }
