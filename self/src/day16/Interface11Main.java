@@ -2,7 +2,7 @@ package day16;
 
 public class Interface11Main {
 	public static void main(String[] args) {
-		//Ãß»óÅ¬·¡½º´Â °´Ã¼»ı¼ºX
+		//ì¶”ìƒí´ë˜ìŠ¤ëŠ” ê°ì²´ìƒì„±X
 		//A11 a11 = new A11();
 		//Interface11 i11 = new A11();
 		
