@@ -5,5 +5,5 @@ public class Interface12_2 {}
 class Bird extends Animal implements Interface12{
 	@Override
 	public void run() {}
-	//nameÇÊµå¿Í eat()¸Ş¼Òµå »ó¼Ó¹ŞÀ½
+	//nameí•„ë“œì™€ eat()ë©”ì†Œë“œ ìƒì†ë°›ìŒ
 }
