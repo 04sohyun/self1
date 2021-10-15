@@ -16,7 +16,7 @@ public class Interface7Main {
 		arr[4] = new E1();
 		
 		for(int i=1;i<arr.length;i++) {
-			System.out.println(arr[i] instanceof Interface7?"Interface7타입:"Interface7타입아님");
+			System.out.println(arr[i] instanceof Interface7?"Interface7타입":"Interface7타입아님");
 		}
 	}
 }
