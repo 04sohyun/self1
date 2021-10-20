@@ -14,10 +14,14 @@ public class BCloneMain {
 		
 		//변경여부확인
 		System.out.println("[복제 개체의 필드값]");
+		System.out.println(cloned.name);
+		System.out.println(cloned.age);
 		System.out.println(cloned.car.model);
 		for(int i=0;i<cloned.scores.length;i++)
 			System.out.println(cloned.scores[i]);
 		System.out.println("[원본 개체의 필드값]");
+		System.out.println(cloned.name);
+		System.out.println(cloned.age);
 		System.out.println(original.car.model);
 		for(int i=0;i<original.scores.length;i++)
 			System.out.println(original.scores[i]);
