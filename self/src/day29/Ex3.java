@@ -33,7 +33,7 @@ public class Ex3 {
 				int maximum = rs.getInt(4);
 				System.out.println(total + "|" + average + "|" + minimum + "|" + maximum);
 			}
-			//6. 자원해제
+			//6. 자원해제  
 			rs.close(); stmt.close(); con.close();
 		}catch(Exception e) {
 			e.printStackTrace();  
