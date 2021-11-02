@@ -36,7 +36,7 @@ public class Ex3 {
 			//6. 자원해제
 			rs.close(); stmt.close(); con.close();
 		}catch(Exception e) {
-			e.printStackTrace();
+			e.printStackTrace();  
 		}
 	}
 }
