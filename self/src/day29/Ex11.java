@@ -13,7 +13,7 @@ public class Ex11 {
 		//3.쿼리전송객체 생성
 		Statement stmt = con.createStatement();
 		//4.쿼리문 작성
-		String address = "서울시";
+		String address = "서울시"; 
 		String phone = "010-111-1234";
 		int custid = 7;
 		String sql = "update customer set address= '"+address+"', phone='"+phone+"' "
